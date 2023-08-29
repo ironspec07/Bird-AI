@@ -20,3 +20,6 @@ thank you.
 - create dashbord page
 - user authentication using clerk
 - setup clerk for next.js
+  > - setup authentication folder
+  - setup sign-in and singn-up
+  - setup environment variables
