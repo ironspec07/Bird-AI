@@ -6,11 +6,11 @@ birdAI is a generative AI platform
 
 - [x] setup an **next.js** app
 - [x] add ui with **shadcn**
-- [] create **landing** page
-- [] create **dashbord** page
-- [] Add user authentication using **clerk**
-- [] add conversation page
-- [] add openAI api to app
+- [ ] create **landing** page
+- [ ] create **dashbord** page
+- [ ] Add user authentication using **clerk**
+- [ ] add conversation page
+- [ ] add openAI api to app
 
 ### Next.js
 
