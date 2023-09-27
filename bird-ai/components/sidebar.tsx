@@ -64,11 +64,11 @@ const Sidebar = () => {
                         <Image 
                         fill
                         alt="logo"
-                        src="/bird.png"
+                        src=""
                         />
                     </div>
                     <h1 className={cn("text-2xl font-bold", montserrat.className)}>
-                        Bird-AI
+                        birdAI
                     </h1>
                 </Link>
                 <div className="space-y-1">
