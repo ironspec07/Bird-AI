@@ -62,14 +62,14 @@ const Sidebar = () => {
         <div className="space-y-4 py-4 flex flex-col h-full bg-[#111827] text-white">
             <div className="px-3 py-2 flex-1">
                 <Link href="/dashboard" className="flex item-center pl-3 mb-14">
-                    <div className="relative w-8 h-8 mr-4">
+                    <div className="relative w-9 h-9 mr-2">
                         <Image 
                         fill
                         alt="logo"
                         src="/logo.png"
                         />
                     </div>
-                    <h1 className={cn("text-2xl font-bold", montserrat.className)}>
+                    <h1 className={cn("text-2xl font-bold mt-2", montserrat.className)}>
                         birdAI
                     </h1>
                 </Link>
