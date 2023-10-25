@@ -6,7 +6,7 @@ import {Montserrat} from "next/font/google";
 import {usePathname} from "next/navigation";
 
 import { cn } from "@/lib/utils";
-import{LayoutDashboard,MessageSquare,ImageIcon,VideoIcon,Music,Code,Settings} from "lucide-react";
+import{LayoutDashboard,MessageSquare,ImageIcon,VideoIcon,Music,Code} from "lucide-react";
 
 const montserrat = Montserrat({
     weight: "600",
@@ -49,11 +49,6 @@ const routes = [
         icon: Code,
         color: "text-green-700",
         href: '/code',
-      },
-      {
-        label: 'Settings',
-        icon: Settings,
-        href: '/settings',
       },
 ];
 const Sidebar = () => {
