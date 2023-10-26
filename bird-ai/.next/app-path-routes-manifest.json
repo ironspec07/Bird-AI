@@ -1,0 +1,18 @@
+{
+  "/_not-found": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/api/conversation/route": "/api/conversation",
+  "/api/code/route": "/api/code",
+  "/api/image/route": "/api/image",
+  "/api/music/route": "/api/music",
+  "/api/video/route": "/api/video",
+  "/(landing)/page": "/",
+  "/(dashboard)/(routes)/dashboard/page": "/dashboard",
+  "/(dashboard)/(routes)/code/page": "/code",
+  "/(dashboard)/(routes)/conversation/page": "/conversation",
+  "/(dashboard)/(routes)/music/page": "/music",
+  "/(dashboard)/(routes)/image/page": "/image",
+  "/(dashboard)/(routes)/video/page": "/video",
+  "/(auth)/(routes)/sign-in/[[...sign-in]]/page": "/sign-in/[[...sign-in]]",
+  "/(auth)/(routes)/sign-up/[[...sign-up]]/page": "/sign-up/[[...sign-up]]"
+}

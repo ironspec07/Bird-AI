@@ -1,0 +1,18 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/conversation/route": "app/api/conversation/route.js",
+  "/api/code/route": "app/api/code/route.js",
+  "/api/image/route": "app/api/image/route.js",
+  "/api/music/route": "app/api/music/route.js",
+  "/api/video/route": "app/api/video/route.js",
+  "/(landing)/page": "app/(landing)/page.js",
+  "/(dashboard)/(routes)/dashboard/page": "app/(dashboard)/(routes)/dashboard/page.js",
+  "/(dashboard)/(routes)/code/page": "app/(dashboard)/(routes)/code/page.js",
+  "/(dashboard)/(routes)/conversation/page": "app/(dashboard)/(routes)/conversation/page.js",
+  "/(dashboard)/(routes)/music/page": "app/(dashboard)/(routes)/music/page.js",
+  "/(dashboard)/(routes)/image/page": "app/(dashboard)/(routes)/image/page.js",
+  "/(dashboard)/(routes)/video/page": "app/(dashboard)/(routes)/video/page.js",
+  "/(auth)/(routes)/sign-in/[[...sign-in]]/page": "app/(auth)/(routes)/sign-in/[[...sign-in]]/page.js",
+  "/(auth)/(routes)/sign-up/[[...sign-up]]/page": "app/(auth)/(routes)/sign-up/[[...sign-up]]/page.js"
+}
