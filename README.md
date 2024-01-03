@@ -3,7 +3,7 @@
 BIRD-AI is a cutting-edge Software as a Service (SaaS) platform that leverages artificial intelligence to generate a wide range of imaginative content, including images, code, videos, and text.
 
 - The platform seamlessly integrates the capabilities of OpenAI and Replicate AI, utilizing state-of-the-art artificial intelligence models for content generation.
-- BIRD-AI prioritizes data security  and user privacy, implementing robust encryption and access controls to safeguard sensitive information.
+- birdAI prioritizes data security  and user privacy, implementing robust encryption and access controls to safeguard sensitive information.
 
 ## general setup
 
