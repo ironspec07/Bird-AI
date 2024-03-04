@@ -74,4 +74,4 @@ BIRD-AI is a cutting-edge Software as a Service (SaaS) platform that leverages a
 > - add POST method to send request
 > - add methods to catch resonse & error
 > - setup error message
-> - add conditionals to check for valid request
+> - add conditionals to check for valid request.
